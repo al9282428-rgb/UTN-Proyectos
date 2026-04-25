@@ -1,2 +1,2 @@
 # UTN-TeamProjects
-A compilation of collaborative projects and assignments completed during my Information Systems degree.
+Proyectos grupales de la carrera Ingeniería en Sistemas de Información - UTN.
